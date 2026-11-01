@@ -16,6 +16,7 @@
 - [prd](https://github.com/huzhw/prd-skill)：PRD 生成器（一句话需求→结构化需求文档）
 - [coding-rules](https://github.com/huzhw/coding-rules)：编码规则库（独立仓库，非 skill）
 - [daily-report-panel](https://github.com/huzhw/daily-report-panel)：日报管家（关联仓库，非 skill，自动合并/导出/发件）
+- [memory-ai-cleanup](https://github.com/huzhw/memory-ai-cleanup)：memory-ai 记录定期清理：删过期流水、摘索引死链、清 tmp 残留
 
 ## 解决了什么问题
 
